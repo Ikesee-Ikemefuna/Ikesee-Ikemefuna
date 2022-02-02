@@ -1,5 +1,5 @@
-### Artificial In Intelligence and the future of
-medicine(Healthcare from remoteness)
+### Artificial In Intelligence and the future ofmedicine(Healthcare from remoteness)
+
 Artificial intelligence and remote health monitoring have extended their
 innovative clinical practices by pushing the limiting barriers in healthcare
 innovations and practices. Whether this will lead to long term clinical
