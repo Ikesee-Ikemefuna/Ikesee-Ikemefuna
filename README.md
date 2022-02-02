@@ -1,130 +1,43 @@
-### Artificial In Intelligence and the future of
-medicine(Health from remoteness)
-Artificial intelligence and remote health monitoring have extended their
-innovative clinical practices by pushing the limiting barriers in healthcare
-innovations and practices. Whether this will lead to long term clinical
-outcomes and breakthroughs is still unknown but one thing is certain, the
-advancements already present in healthcare through artificial intelligence
-are a strong indication that medical AI is here to stay. Many tasks that
-used to take a lot of resources and time in health centers and hospitals
-are now automated with AI and done faster and with ease. In some health
-institutions, it takes a great deal of time before a patient receives the care
-they need because health providers have to manually access their medical
-records, carry out series of tests, before putting them on long waiting lists
-as many hospitals are short-staffed in some places. Artificial Intelligence
-queues up the most relevant data from a patient’s hospital file, pull up
-information and recordings of appointments and even their conversations
-with the doctor down to the very specific ailment[1]. This saves health
-providers and patients some valuable amount of time and might even
-improve standard of healthcare in so many ways. Another way this might
-improve healthcare and save time is, AI can predict which section of the
-clinic that might be needing more staffing soon. This helps to decongest
-crowd in hospitals mainly in this Covid era. Talking about Covid, the EU
-funded AI project on Covid has made Lung damage through Corona Virus
-very easy to diagnose, thereby expediting the whole process of its
-treatment[2]; First, Artificial Intelligence software trades information with
-hospital’s CT scanner. The Artificial Intelligence tool assesses the
-tomography of the lungs taken by the computed tomography machine, it
-identifies the signs of the disease and its extent of damage- all these
-being done with swiftness and precision. Ordinarily, this process would
-take an experienced Healthcare professional some time to carefully study
-but the AI machine would require just a few seconds. Their speed and
-accuracy stem from their deep learning algorithm, meaning that the more
-work these AI machines do, the better they get at these diagnoses. This is
-unlike humans who get fatigued with more work and eventually lose their
-accuracy. It also reduces staff to patient contact thereby limiting the
-number of hospital acquired Covid infections.
-Apart from the way it limits new infection and facilitates medicare, its
-innovative reach is unbridled. The implementation of machine learning in
-surgery is one of such great leaps. Some Artificial Intelligence surgical
-systems can carry out the finest of surgical movements with a hundred
-percent accuracy[3]. This means complex surgeries could be carried out
-with no risk of errors. Its precise procedure in turn enhances quick
-recovery. Other AI medical innovations of the like are; the 3D printed
-smart hand that was made to provide more artificial functionality to
-prosthetic limbs. Another such innovation is the Automated Gait Analysis
-that marks someones walking gait and makes diagnosis of an underlying
-ailment. The Celebral Palsy Assistant and Autism Virtual Reality that
-enables wearers of its VR headset experience what an autistic child goes
 
-through everyday. As a matter of fact, the field of neuroscience has
-benefited a great deal from the discipline of artificial intelligence. A lot of
-researches, treatment and therapies are being carried out through AI,
-including some breakthroughs in various fields of endocrinology, radiology
-and oncology. It has facilitated early detection in many cases . Even some
-diagnoses that require non-invasive approach have employed AI’s remote
-approach in diverse ways. Due to these early detections, it reduces cost of
-healthcare from consulting to diagnosis. For example, AI can alert us of
-some biomarkers of some diseases in the body, thereby saving people
-trips to the laboratory. AI assisted algorithms are thought to be more
-cost-effective than other forms of medicine[3].
-Its ability to see future with genetics and heredity is another magical
-positive outcome. For example, a Google application called Verily is able
-to forecast heredity and some genetic diseases[3]. This means people can
-know ailments they are predisposed to through genetics and heredity and
-apply measures to avert them.
-Limitations
-However, Artificial Intelligence has its demerits and limitations. The
-system is not completely error-proof. AI may miss a tumour or do a
-double prescription of the same dosage which may lead to serious injury,
-relapse and in worst cases death. Another problem with the AI system is
-connected to privacy. A patient’s health records is a very sensitive part of
-their therapy. Entrusting the handling of people’s medical records unto a
-machine is a bit of a risk as they may malfunction at some point. This has
-brought about some very tumultuous lawsuits in the past[4]. Thirdly,
-nobody would want their healthcare completely delegated to a
-machine[5]. The fear of being at the mercy of a mere machine is enough
-turnoff to many. Furthermore, a lot of healthcare workers do not want to
-lose their jobs to machines. Just as the camera-man feels threatened that
-drone cameras might take his job, so does the surgeon fear that robotic
-surgery machines might take theirs. Lastly, technophobic people would
-not want to embrace these advancements made by Artificial intelligence in
-Medicine no matter how helpful these breakthroughs are either because of
-culture, beliefs or neo-luddism.
-Although the AI medical system will eventually overcome its challenges,
-like errors, doubts by patients and healthcare professionals[5], there will
-never be a time Artificial Intelligence will completely take over the work
-of health professionals. They just have to strike a balance between man
-and machine while exploiting this very advantageous system.
-Nevertheless, AI health system has come to stay. The way the world
-around us is advancing technologically has made it impossible for Artificial
-Intelligence health administered healthcare not to thrive. Although there
-are still some luddites kicking against it on ethical and moral terms. It is
-only a matter of time before antagonists give in to the next AI’s
-outstanding innovation.
-The future of Artificial Intelligence holds a great promise for the field of
-medicine as new researches are ongoing about diagnosis and cure for
+Modern changes and growth take on many forms, including the current era of rising technology. Over time it has taken enough trust for the majority to get accustomed to these, because subsequently, there are new trends to look out for. Access to healthcare has never been the easiest and most comfortable, but there is an opportunity for that to change, in a world where digitised health-care is at our disposal - our fingertips. 
+Knowing this innovation will create an advancement in healthcare, but there are grey areas; does it eliminate the human-doctor experience or advances it? How would the public accept this change (if they eventually do)? There are uncertainties surrounding this development and the outcomes will depend on how Artificial Intelligence (AI) is managed.
 
-some diseases using AI. There is so much hope for the cure of Type 2
-diabetes[6] and significant improvement in Radiology department in the
-nearest future. Artificial intelligence is the new game changer in the field
-of medicine and we all better embrace it.
+### THE NEED FOR AI IN MEDICINE
+Informing clinical decisions with data from previous data is the essence of evidence-based medicine. Traditionally, mathematical methods have achieved this function by presenting patterns within data such as mathematical calculations, for example, the linear regression raises the 'most relevant line'. By ‘machine learning’ (ML), AI provides strategies that identify complex organizations that cannot be easily reduced to mathematical proportions.
 
-References.
-[1] Lawrene Block et al. In the wake of the 2003 and 2011 duty hours
-regulations. How do Internal medicine interns spend their time?.
-J.Gen.Intern.Med. 28(8):1042-1047 (2013)
+According to Spatharou et al. (2020), “by 2050, one in four people in Europe and North America will be over the age of 65—this means the health system will have to deal with more patients with complex needs. Managing such patients is expensive and requires systems to shift from an episodic care-based philosophy to one that is much more proactive and focused on long-term care management.” 
 
-[2] Dr Michael Ohana, Dr Manel Escober. Artificial Intelligence can help us
-combat Coron Virus. 2019. https://ec.europa.eu/info/strategy/recovery-
-plan-europe/recovery-coronavirus-success-stories/health/artificial-
-intelligence-can-help-us-combat-coronavirus_en
+### THE FATE OF CURRENT AND PROSPECTIVE DOCTORS WITH AI
+A single AI system is capable of supporting large numbers and is therefore well suited to situations where human expertise is a rare resource. While this encourages the AI innovation implementation, the fate of future healthcare practitioners (HCPs) are in question; the question of whether the majority of them would be out of career.. How is the AI-HCPs merger regulated? Would older healthcare workers be able to handle this machine learning and manage the developing lifestyle? Would patients trust the AI system? What about potential risks posed? Would this change an inevitable phase brewing?
 
-[3] Uprenda Patel .Tristate Technology. Artificial Intelligence in
-Healthcare: Top benefits, risks and challenges. 22 0ctober 2020.
-https://www.tristatetechnology.com/blog/artificial-intelligence-in-
-healthcare-top-benefits-risks-and-challenges/
+While this argument is valid, it is paramount to create a bridge between both worlds. How? By a merge, directed to the younger and incoming HCPs. We can imagine a world where the new generation of HCPs are also experts with AI or have the technical know-how. This would create trust for the patients and final consumers of these services. 
 
-[4] I. Glen Cohen, Michelle M. Mello. Big data, big Tech and protecting
-patients privacy. JAMA( Published Aug. 9 2019)
-https://jamanetwork.com/journals/jama/fullarticle/2748399.
+AI is not replacing human doctors but assisting them. Machines do not have human qualities such as empathy and compassion, so patients should see to it that consultation is led by human doctors. In addition, patients cannot expect to quickly trust AI; technology covered by mistrust. Therefore, AI tends to handle important tasks, but is limited enough in its scope to leave the primary responsibility for patient management to a human physician. There is an ongoing clinical trial that uses AI to calculate targeted areas of head and neck radiotherapy more accurately and more quickly than a person. The invading radiologist is still responsible for finally delivering the treatment but AI plays an important backing role in protecting the patient from harmful radiation.
 
-[5] Oppenheim M, Stephen Hawking. Artificial Intelligence could be the
-greatest disaster in human history. Independent, Oct 20, 2016
-http://www.independent.co.uk/news/people/stephen-hawking-artificial-
-intelligence-diaster-human-history-leverhulme-centre-cambridge-
-a7371106.html
+### FUTURE POSSIBILITIES IN MEDICAL PRACTICE
+AI will extract important information from the patient's electronic footprint. Initially this will save time and improve efficiency, but following adequate testing will also directly guide patient management. Take the example of consulting a patient with type 2 diabetes; while the doctor spends valuable time reading outpatient literature, checking blood tests, and obtaining clinical guidelines for many discontinued programs, AI can automatically prepare for the most important risks and actions if a patient's clinical record is provided. It can also automatically convert a recorded consultation dialogue into an abridged letter for the doctor to approve or amend. Both of these applications will save both patients and HCPs a long time and can be used quickly because they help doctors rather than replace them.
 
-[6] NCBI. Artficial Intelligence Medicine. Current trends and future
-possibilities. Mar 2008.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819974/.
+As these systems become better validated, they will be given more responsibility. In a patient with type 2 diabetes, the onset of statin may be determined by the AI on an individual basis based on patient history concerns rather than a strictly defined ‘equality-all’ algorithm. The research required for this 'personalized medicine' is only possible if AI cleverly summarizes a wealth of medical knowledge. In addition, because AI is able to simultaneously monitor millions of entries, it will play an important role in preventive medicine. AI can further suggest consultation when determining that a patient's risk of developing a specific diabetes problem requires intervention. On the contrary, it would be impossible to give a person the task of carefully monitoring the results and evaluation of every diabetic patient in real time.
+
+AI-based systems will also bring diagnostic specialists to basic care. If a picture of a skin lesion is sufficient to diagnose its aetiology, the images may be taken by a doctor and sent to a professional dermatology AI system for immediate analysis. Patients identified as low risk will receive immediate confirmation while high-risk patients will receive lower referral waiting times because clinics will only receive selected cases. This concept is not limited to skin lesions, AI has shown the ability to translate many different types of image data including retina scanning, radiographs, and ultrasound. Many of these images can be screened with inexpensive and widely available equipment.
+
+### BUILDING RELATIONSHIPS
+Future AI research should be directed to carefully selected activities. Integrating these systems into clinical practice needs to build beneficial relationships between AI and nurses, where AI provides physicians with greater efficiency or cost effectiveness and physicians provide AI with the important clinical exposure they need to learn clinical case management. Throughout this process it will be important to ensure that AI does not obscure the human face of the medical profession because a major obstacle to the widespread adoption of AI will be the public's reluctance to embrace technically contradictory technologies.
+
+
+
+
+
+
+### REFERENCES
+
+Briganti G. & Le Moine O. (2020). Artificial Intelligence in Medicine: Today and Tomorrow, Frontiers In Medicine; Translational Medicine. DOI: https://doi.org/10.3389/fmed.2020.00027 Retrieved 28 January 2022
+
+Buch V. H., Ahmed I. & Maruthappu M. (2018). Artificial Intelligence in Medicine: Current Trends and Future Possibilities, British Journal of General Practice, 68 (668), 143-144. DOI: https://doi.org/10.3399/bjgp18X695213 Retrieved 28 January 2022
+
+Goldhahn J., Rampton V., Weiss B., & Spinas G. A. (2018). Could Artificial Intelligence Make Doctors Obsolete? BMJ 363:k4563. DOI: https://doi.org/10.1136/bmj.k4563 Retrieved 28 January 2022
+
+Spatharou A., Hieronimus S., & Jenkins J. (2020). Transforming healthcare with AI: The impact on the workforce and organizations. Retrieved 27 October 2021 from https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/transforming-healthcare-with-ai
+
+
+
